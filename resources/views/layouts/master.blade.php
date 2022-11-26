@@ -6,7 +6,7 @@
         @hasSection('page_title')
             @yield('page_title')
         @else
-            The worlds largest marketplace for buyers and sellers in the shooting sports industry!
+
         @endif
     </title>
     <meta charset="utf-8">
